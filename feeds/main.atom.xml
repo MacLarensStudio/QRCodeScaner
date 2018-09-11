@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>QR Code Scaner - Main</title><link href="https://maclarensstudio.github.io/QRCodeScaner/" rel="alternate"></link><link href="https://maclarensstudio.github.io/QRCodeScaner/feeds/main.atom.xml" rel="self"></link><id>https://maclarensstudio.github.io/QRCodeScaner/</id><updated>2018-09-09T12:00:00+02:00</updated><entry><title>QR Code Scaner</title><link href="https://maclarensstudio.github.io/QRCodeScaner/Aplication%20support.html" rel="alternate"></link><published>2018-09-09T12:00:00+02:00</published><updated>2018-09-09T12:00:00+02:00</updated><author><name>Sergey Stasenko</name></author><id>tag:maclarensstudio.github.io,2018-09-09:/QRCodeScaner/Aplication support.html</id><summary type="html">&lt;p&gt;Short version for index and feeds&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Simple LogBook App V1.0&lt;/h2&gt;
+&lt;p&gt;Simple LogBook ia a simple an easy to use, but effective IOS application. It designed for pilots all over the world who want to calculate own total flight hours.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="screenshot1" src="https://maclarensstudio.github.io/QRCodeScaner/scr1.png"&gt;
+&lt;img alt="screenshot1" src="https://maclarensstudio.github.io/QRCodeScaner/scr2.png"&gt;&lt;/p&gt;
+&lt;p&gt;Supports most known types: QR Code, Barcode, Code39, Code93, Code128, EAN-8, EAN-13, Aztec, PDF417, ITF-14, DataMatrix ...Easy scan QR Code and Barcode&lt;/p&gt;
+&lt;p&gt;Futures: 
+- Quick recognition
+- Flash suport
+- Scan history
+- Sharing
+- No AD
+- Unlimited Scans
+- Jump directly to WEB addresses decoded&lt;/p&gt;</content><category term="ios"></category><category term="app"></category></entry></feed>
